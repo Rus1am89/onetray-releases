@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:50:41Z",
+  "generated_at": "2026-06-04T22:00:33Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -8,7 +8,7 @@
       "config": "Accounting",
       "display": "Бухгалтерия предприятия",
       "latest": "3.0.199.13",
-      "versions_count": 26,
+      "versions_count": 27,
       "versions": [
         {
           "version": "3.0.111.16",
@@ -386,6 +386,21 @@
           "revoked": false
         },
         {
+          "version": "3.0.198.19",
+          "from": [
+            "3.0.195.36",
+            "3.0.195.40",
+            "3.0.196.21",
+            "3.0.197.19",
+            "3.0.197.22",
+            "3.0.197.28",
+            "3.0.198.15"
+          ],
+          "date": "2026-05-23",
+          "min_platform": null,
+          "revoked": false
+        },
+        {
           "version": "3.0.199.13",
           "from": [
             "3.0.195.36",
@@ -407,7 +422,7 @@
       "config": "AccountingBase",
       "display": "Бухгалтерия предприятия (базовая)",
       "latest": "3.0.199.13",
-      "versions_count": 3,
+      "versions_count": 4,
       "versions": [
         {
           "version": "3.0.182.33",
@@ -440,6 +455,21 @@
           "revoked": false
         },
         {
+          "version": "3.0.198.19",
+          "from": [
+            "3.0.195.36",
+            "3.0.195.40",
+            "3.0.196.21",
+            "3.0.197.19",
+            "3.0.197.22",
+            "3.0.197.28",
+            "3.0.198.15"
+          ],
+          "date": "2026-05-23",
+          "min_platform": null,
+          "revoked": false
+        },
+        {
           "version": "3.0.199.13",
           "from": [
             "3.0.195.36",
@@ -461,8 +491,23 @@
       "config": "AccountingCorp",
       "display": "Бухгалтерия предприятия КОРП",
       "latest": "3.0.199.13",
-      "versions_count": 1,
+      "versions_count": 2,
       "versions": [
+        {
+          "version": "3.0.198.19",
+          "from": [
+            "3.0.195.36",
+            "3.0.195.40",
+            "3.0.196.21",
+            "3.0.197.19",
+            "3.0.197.22",
+            "3.0.197.28",
+            "3.0.198.15"
+          ],
+          "date": "2026-05-23",
+          "min_platform": null,
+          "revoked": false
+        },
         {
           "version": "3.0.199.13",
           "from": [
