@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T21:59:52Z",
+  "generated_at": "2026-06-07T23:00:10Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -2075,7 +2075,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.47",
-      "versions_count": 79,
+      "versions_count": 80,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -2156,6 +2156,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "2.5.17.234",
+          "from": [
+            "2.5.12.270",
+            "2.5.16.115",
+            "2.5.17.226",
+            "2.5.17.227",
+            "2.5.17.229",
+            "2.5.17.232"
+          ],
+          "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "2.5.22.92",
@@ -5216,7 +5231,7 @@
       "config": "trade",
       "display": "Управление торговлей",
       "latest": "11.5.27.47",
-      "versions_count": 74,
+      "versions_count": 75,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -5249,6 +5264,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.17.234",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.226",
+            "11.5.17.227",
+            "11.5.17.229",
+            "11.5.17.232"
+          ],
+          "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.22.92",
@@ -6290,7 +6320,7 @@
       "config": "tradebase",
       "display": "Управление торговлей (базовая)",
       "latest": "11.5.27.47",
-      "versions_count": 73,
+      "versions_count": 74,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -6323,6 +6353,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.17.234",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.226",
+            "11.5.17.227",
+            "11.5.17.229",
+            "11.5.17.232"
+          ],
+          "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.22.92",
