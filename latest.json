@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Первый выпуск канала автообновлений OneTray. Тихая проверка при старте и раз в 6 часов, установка в один клик.",
-  "pub_date": "2026-06-09T14:26:50Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZBN2JhZkxsVnI1eTVqa0hvdnVDZnhNRmFGN0VIRHJkRWpZM2ZKamVSSW9nNTFnZE9QSTdJVEZoVVNmeVloM24zdUFLM1F0eS8zRFdkNGU4OVMvUTM5dUpKWmx4Y1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDEzMTkxCWZpbGU6T25lVHJheV8xLjAuMV94NjQtc2V0dXAuZXhlCjk2UkN0NWdyYnh6ZU1tUTc4MHJKajIrSmVOSnByTEM4RWlDc3BqMkdIUzB6TFovcUo5eFFVL2k1UUovOE43MzNqUTN5MTJMbytQV0c3WjhDT0p3SEN3PT0K",
-      "url": "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.0.1_x64-setup.exe"
-    }
-  }
+    "version":  "1.0.1",
+    "notes":  "Первый коммерческий выпуск",
+    "pub_date":  "2026-06-09T20:47:38Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHRBcm9aQjQ0NVZ6Z0QvaWxBQXF1bUZ5NkJGNjNTakpadGd4OUFKQmdIeDN4MHNBU1E1amU2SnhWSFZrdElBU29JUlN2K2dFbnBQOU9zR2ZCdi9Ec1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDM4MDU4CWZpbGU6T25lVHJheV8xLjAuMV94NjQtc2V0dXAuZXhlCjFndUphVTl3Mm11cVJ4Z2NJckk0b0x6MWFMSEdZeGhvZUFickRTMjZwdFdrUFIwSTh3Zjh5bFllSTBXYlhUMVd1UkVTSVdkL1VXSjdhK3NEenhIWUF3PT0K",
+                                             "url":  "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.0.1_x64-setup.exe"
+                                         }
+                  }
 }
