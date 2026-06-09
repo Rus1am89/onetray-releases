@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ZBN2JhZkxsVnI1eTVqa0hvdnVDZnhNRmFGN0VIRHJkRWpZM2ZKamVSSW9nNTFnZE9QSTdJVEZoVVNmeVloM24zdUFLM1F0eS8zRFdkNGU4OVMvUTM5dUpKWmx4Y1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDEzMTkxCWZpbGU6T25lVHJheV8xLjAuMV94NjQtc2V0dXAuZXhlCjk2UkN0NWdyYnh6ZU1tUTc4MHJKajIrSmVOSnByTEM4RWlDc3BqMkdIUzB6TFovcUo5eFFVL2k1UUovOE43MzNqUTN5MTJMbytQV0c3WjhDT0p3SEN3PT0K",
-      "url": "https://cdn.jsdelivr.net/gh/Rus1am89/onetray-releases@main/bin/OneTray_1.0.1_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.0.1_x64-setup.exe"
     }
   }
 }
