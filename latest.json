@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Имена баз в очистке кеша; надёжный ID компьютера в VM",
-    "pub_date":  "2026-06-10T00:18:23Z",
+    "version":  "1.0.3",
+    "notes":  "Синтакс-помощник; имена баз и умная очистка кеша; стабильность и скорость интерфейса",
+    "pub_date":  "2026-06-10T16:21:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHVxV0lQZGJWRHp5TEFZdHlYak5nUnZhSG1uby95NkNZVTVRZmpIR1FEWks2STYvdEgzUy9sMC9vcmcxdUpjbXlyTE5zNGVkTkpQb1RTWVhTWWZXM0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDUwNzAzCWZpbGU6T25lVHJheV8xLjAuMl94NjQtc2V0dXAuZXhlCmQ5L3ZBK3FjUzJ1dGZMRXVQVnVsUFQ0UTBjVEkxK0hIaTBOVCtsNVE2am9HSFMrSE9JMmlNUGkycTJQdEUrYS9zdDgxYUFWQVUwZXV1WDZBUkxkU0JRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.0.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveGhJcms3bVdFY1pETXYwR0ZNSlRRcG9EWTdGdDJEN09XeHlUcGlHc09BREFwaEczUFlMeHIxYXFDRVdDaGFydzdVZEo2STRXcExvTS95MksrY3RZZEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTA4NDkxCWZpbGU6T25lVHJheV8xLjAuM194NjQtc2V0dXAuZXhlCkRIOEFZME5yZ2lVZndXNU9zNGlMc2dzM1NsbWNxc21ocXlDYmNtTDBNMmtyR0svNS83OHJxWFV0UXdYUURkWFBWVjhNZlBoN05IcTdMc3hvcnByb0JnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.0.3_x64-setup.exe"
                                          }
                   }
 }
