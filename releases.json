@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T19:28:06Z",
+  "generated_at": "2026-06-19T20:28:25Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -2752,7 +2752,7 @@
             "3.0.198.19"
           ],
           "date": "2026-06-01",
-          "min_platform": null,
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
         }
