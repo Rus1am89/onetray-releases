@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T21:28:42Z",
+  "generated_at": "2026-06-19T22:30:07Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -2762,8 +2762,8 @@
       "vendor": "1c",
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
-      "latest": "2.5.27.49",
-      "versions_count": 114,
+      "latest": "2.5.27.50",
+      "versions_count": 115,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -4389,6 +4389,20 @@
             "2.5.27.47"
           ],
           "date": "2026-06-06",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "2.5.27.50",
+          "from": [
+            "2.5.22.186",
+            "2.5.26.118",
+            "2.5.27.45",
+            "2.5.27.47",
+            "2.5.27.49"
+          ],
+          "date": "2026-06-10",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
