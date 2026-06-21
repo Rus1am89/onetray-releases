@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T01:50:24Z",
+  "generated_at": "2026-06-21T02:51:09Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -8,7 +8,7 @@
       "config": "Accounting",
       "display": "Бухгалтерия предприятия",
       "latest": "3.0.199.13",
-      "versions_count": 80,
+      "versions_count": 81,
       "versions": [
         {
           "version": "3.0.79.11",
@@ -327,6 +327,22 @@
           ],
           "date": "2024-11-27",
           "min_platform": "8.3.24.1548",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.168.19",
+          "from": [
+            "3.0.164.23",
+            "3.0.165.19",
+            "3.0.165.21",
+            "3.0.166.17",
+            "3.0.166.25",
+            "3.0.167.32",
+            "3.0.167.36"
+          ],
+          "date": "2025-01-14",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
         },
@@ -2218,7 +2234,7 @@
       "config": "AccountingCorp",
       "display": "Бухгалтерия предприятия КОРП",
       "latest": "3.0.199.13",
-      "versions_count": 64,
+      "versions_count": 65,
       "versions": [
         {
           "version": "3.0.77.89",
@@ -2275,6 +2291,22 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.168.19",
+          "from": [
+            "3.0.164.23",
+            "3.0.165.19",
+            "3.0.165.21",
+            "3.0.166.17",
+            "3.0.166.25",
+            "3.0.167.32",
+            "3.0.167.36"
+          ],
+          "date": "2025-01-14",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.168.25",
@@ -3195,7 +3227,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 130,
+      "versions_count": 132,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -3276,6 +3308,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "2.5.17.179",
+          "from": [
+            "2.5.12.270",
+            "2.5.16.115",
+            "2.5.17.164",
+            "2.5.17.168",
+            "2.5.17.169",
+            "2.5.17.172"
+          ],
+          "date": "2025-01-15",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "2.5.17.183",
@@ -3543,6 +3590,21 @@
             "2.5.17.232"
           ],
           "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "2.5.20.91",
+          "from": [
+            "2.5.17.172",
+            "2.5.17.179",
+            "2.5.19.74",
+            "2.5.20.75",
+            "2.5.20.80",
+            "2.5.20.85"
+          ],
+          "date": "2025-01-22",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
@@ -8019,7 +8081,7 @@
       "config": "trade",
       "display": "Управление торговлей",
       "latest": "11.5.27.52",
-      "versions_count": 124,
+      "versions_count": 127,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -8052,6 +8114,36 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.17.179",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.164",
+            "11.5.17.168",
+            "11.5.17.169",
+            "11.5.17.172"
+          ],
+          "date": "2025-01-15",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "11.5.17.183",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.168",
+            "11.5.17.169",
+            "11.5.17.172",
+            "11.5.17.179"
+          ],
+          "date": "2025-01-24",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.17.185",
@@ -8304,6 +8396,21 @@
             "11.5.17.232"
           ],
           "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "11.5.20.91",
+          "from": [
+            "11.5.17.172",
+            "11.5.17.179",
+            "11.5.19.74",
+            "11.5.20.75",
+            "11.5.20.80",
+            "11.5.20.85"
+          ],
+          "date": "2025-01-22",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
@@ -9841,7 +9948,7 @@
       "config": "tradebase",
       "display": "Управление торговлей (базовая)",
       "latest": "11.5.27.52",
-      "versions_count": 123,
+      "versions_count": 126,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -9874,6 +9981,36 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.17.179",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.164",
+            "11.5.17.168",
+            "11.5.17.169",
+            "11.5.17.172"
+          ],
+          "date": "2025-01-15",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "11.5.17.183",
+          "from": [
+            "11.5.12.270",
+            "11.5.16.115",
+            "11.5.17.168",
+            "11.5.17.169",
+            "11.5.17.172",
+            "11.5.17.179"
+          ],
+          "date": "2025-01-24",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.17.185",
@@ -10126,6 +10263,21 @@
             "11.5.17.232"
           ],
           "date": "2025-08-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "11.5.20.91",
+          "from": [
+            "11.5.17.172",
+            "11.5.17.179",
+            "11.5.19.74",
+            "11.5.20.75",
+            "11.5.20.80",
+            "11.5.20.85"
+          ],
+          "date": "2025-01-22",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
