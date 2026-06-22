@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:13:24Z",
+  "generated_at": "2026-06-22T15:14:14Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -4763,7 +4763,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 202,
+      "versions_count": 203,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -4994,6 +4994,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "2.5.15.103",
+          "from": [
+            "2.5.12.195",
+            "2.5.12.208",
+            "2.5.14.82",
+            "2.5.15.79",
+            "2.5.15.82",
+            "2.5.15.96"
+          ],
+          "date": "2024-01-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "2.5.15.111",
@@ -10187,8 +10202,28 @@
       "config": "smallbusiness",
       "display": "Управление нашей фирмой",
       "latest": "3.0.13.363",
-      "versions_count": 57,
+      "versions_count": 58,
       "versions": [
+        {
+          "version": "3.0.6.160",
+          "from": [
+            "3.0.5.132",
+            "3.0.5.145",
+            "3.0.5.164",
+            "3.0.5.183",
+            "3.0.5.191",
+            "3.0.5.199",
+            "3.0.5.211",
+            "3.0.6.100",
+            "3.0.6.126",
+            "3.0.6.145",
+            "3.0.6.88"
+          ],
+          "date": "2024-01-18",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
         {
           "version": "3.0.6.171",
           "from": [
@@ -11616,7 +11651,7 @@
       "config": "trade",
       "display": "Управление торговлей",
       "latest": "11.5.27.52",
-      "versions_count": 196,
+      "versions_count": 197,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -11814,6 +11849,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.15.103",
+          "from": [
+            "11.5.12.195",
+            "11.5.12.208",
+            "11.5.14.82",
+            "11.5.15.69",
+            "11.5.15.79",
+            "11.5.15.96"
+          ],
+          "date": "2024-01-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.15.111",
@@ -14516,7 +14566,7 @@
       "config": "tradebase",
       "display": "Управление торговлей (базовая)",
       "latest": "11.5.27.52",
-      "versions_count": 195,
+      "versions_count": 196,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -14714,6 +14764,21 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.15.103",
+          "from": [
+            "11.5.12.195",
+            "11.5.12.208",
+            "11.5.13.109",
+            "11.5.14.82",
+            "11.5.15.79",
+            "11.5.15.96"
+          ],
+          "date": "2024-01-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.15.111",
