@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T07:23:04Z",
+  "generated_at": "2026-06-23T08:23:27Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -5459,7 +5459,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 230,
+      "versions_count": 231,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -5881,6 +5881,20 @@
             "2.5.8.443"
           ],
           "date": "2024-04-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "2.5.13.74",
+          "from": [
+            "2.5.12.73",
+            "2.5.12.80",
+            "2.5.12.87",
+            "2.5.12.95",
+            "2.5.13.66"
+          ],
+          "date": "2023-07-25",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
@@ -11829,8 +11843,27 @@
       "config": "smallbusiness",
       "display": "Управление нашей фирмой",
       "latest": "3.0.13.363",
-      "versions_count": 68,
+      "versions_count": 69,
       "versions": [
+        {
+          "version": "3.0.4.144",
+          "from": [
+            "3.0.3.147",
+            "3.0.3.169",
+            "3.0.4.106",
+            "3.0.4.117",
+            "3.0.4.128",
+            "3.0.4.41",
+            "3.0.4.45",
+            "3.0.4.54",
+            "3.0.4.65",
+            "3.0.4.88"
+          ],
+          "date": "2023-08-01",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
         {
           "version": "3.0.5.132",
           "from": [
