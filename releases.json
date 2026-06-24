@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T18:45:32Z",
+  "generated_at": "2026-06-24T19:46:27Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -7011,7 +7011,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 281,
+      "versions_count": 283,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -7076,6 +7076,19 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "2.5.8.287",
+          "from": [
+            "2.4.14.181",
+            "2.5.7.402",
+            "2.5.8.263",
+            "2.5.8.267"
+          ],
+          "date": "2022-09-04",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "2.5.8.295",
@@ -7346,6 +7359,19 @@
             "2.5.8.435"
           ],
           "date": "2023-04-17",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "2.5.9.106",
+          "from": [
+            "2.5.8.263",
+            "2.5.8.267",
+            "2.5.8.287",
+            "2.5.9.94"
+          ],
+          "date": "2022-09-13",
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
@@ -14769,8 +14795,35 @@
       "config": "smallbusiness",
       "display": "Управление нашей фирмой",
       "latest": "3.0.13.363",
-      "versions_count": 88,
+      "versions_count": 89,
       "versions": [
+        {
+          "version": "3.0.1.202",
+          "from": [
+            "1.6.27.167",
+            "1.6.27.178",
+            "1.6.27.188",
+            "1.6.27.190",
+            "1.6.27.200",
+            "1.6.27.209",
+            "1.6.27.218",
+            "1.6.27.222",
+            "1.6.27.232",
+            "1.6.27.257",
+            "1.6.27.270",
+            "1.6.27.277",
+            "1.6.27.285",
+            "1.6.27.295",
+            "3.0.1.175",
+            "3.0.1.186",
+            "3.0.1.189",
+            "3.0.1.193"
+          ],
+          "date": "2022-09-02",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
         {
           "version": "3.0.1.216",
           "from": [
