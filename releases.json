@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:53:51Z",
+  "generated_at": "2026-06-25T00:56:28Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -8,7 +8,7 @@
       "config": "Accounting",
       "display": "Бухгалтерия предприятия",
       "latest": "3.0.199.13",
-      "versions_count": 155,
+      "versions_count": 157,
       "versions": [
         {
           "version": "3.0.79.11",
@@ -63,6 +63,38 @@
           ],
           "date": "2022-04-12",
           "min_platform": "8.3.17.1851",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.113.17",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.31",
+            "3.0.112.34",
+            "3.0.113.16"
+          ],
+          "date": "2022-05-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.114.23",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.34",
+            "3.0.113.17",
+            "3.0.114.16"
+          ],
+          "date": "2022-06-16",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
         },
@@ -2457,7 +2489,7 @@
       "config": "AccountingBase",
       "display": "Бухгалтерия предприятия (базовая)",
       "latest": "3.0.199.13",
-      "versions_count": 154,
+      "versions_count": 156,
       "versions": [
         {
           "version": "3.0.79.11",
@@ -2498,6 +2530,38 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.113.17",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.31",
+            "3.0.112.34",
+            "3.0.113.16"
+          ],
+          "date": "2022-05-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.114.23",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.34",
+            "3.0.113.17",
+            "3.0.114.16"
+          ],
+          "date": "2022-06-16",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.115.15",
@@ -4890,7 +4954,7 @@
       "config": "AccountingCorp",
       "display": "Бухгалтерия предприятия КОРП",
       "latest": "3.0.199.13",
-      "versions_count": 156,
+      "versions_count": 158,
       "versions": [
         {
           "version": "3.0.77.89",
@@ -4939,6 +5003,38 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.113.17",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.31",
+            "3.0.112.34",
+            "3.0.113.16"
+          ],
+          "date": "2022-05-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.114.23",
+          "from": [
+            "3.0.110.24",
+            "3.0.110.29",
+            "3.0.111.16",
+            "3.0.111.25",
+            "3.0.112.34",
+            "3.0.113.17",
+            "3.0.114.16"
+          ],
+          "date": "2022-06-16",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.115.15",
@@ -7347,7 +7443,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 289,
+      "versions_count": 291,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -7412,6 +7508,32 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "2.5.8.207",
+          "from": [
+            "2.4.14.181",
+            "2.5.7.402",
+            "2.5.8.186",
+            "2.5.8.191"
+          ],
+          "date": "2022-06-05",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "2.5.8.221",
+          "from": [
+            "2.4.14.181",
+            "2.5.7.402",
+            "2.5.8.191",
+            "2.5.8.207"
+          ],
+          "date": "2022-06-18",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "2.5.8.232",
@@ -11659,7 +11781,7 @@
       "config": "hrm",
       "display": "Зарплата и управление персоналом",
       "latest": "3.1.38.18",
-      "versions_count": 135,
+      "versions_count": 141,
       "versions": [
         {
           "version": "3.1.13.188",
@@ -11718,6 +11840,45 @@
           "has_setup": true
         },
         {
+          "version": "3.1.18.513",
+          "from": [
+            "3.1.18.435",
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490"
+          ],
+          "date": "2022-05-25",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.18.515",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513"
+          ],
+          "date": "2022-06-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.18.521",
+          "from": [
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.18.520"
+          ],
+          "date": "2022-06-19",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "3.1.18.546",
           "from": [
             "3.1.18.513",
@@ -11748,6 +11909,57 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.22.77",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.21.76",
+            "3.1.22.25",
+            "3.1.22.48"
+          ],
+          "date": "2022-05-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.22.80",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.21.76",
+            "3.1.22.25",
+            "3.1.22.48",
+            "3.1.22.77"
+          ],
+          "date": "2022-06-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.22.86",
+          "from": [
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.18.520",
+            "3.1.18.521",
+            "3.1.22.48",
+            "3.1.22.77",
+            "3.1.22.80"
+          ],
+          "date": "2022-06-19",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.23.20",
@@ -13511,7 +13723,7 @@
       "config": "hrmcorp",
       "display": "Зарплата и управление персоналом КОРП",
       "latest": "3.1.38.18",
-      "versions_count": 134,
+      "versions_count": 140,
       "versions": [
         {
           "version": "3.1.13.188",
@@ -13570,6 +13782,45 @@
           "has_setup": true
         },
         {
+          "version": "3.1.18.513",
+          "from": [
+            "3.1.18.435",
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490"
+          ],
+          "date": "2022-05-25",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.18.515",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513"
+          ],
+          "date": "2022-06-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.18.521",
+          "from": [
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.18.520"
+          ],
+          "date": "2022-06-19",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "3.1.18.546",
           "from": [
             "3.1.18.513",
@@ -13600,6 +13851,57 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.22.77",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.21.76",
+            "3.1.22.25",
+            "3.1.22.48"
+          ],
+          "date": "2022-05-26",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.22.80",
+          "from": [
+            "3.1.18.455",
+            "3.1.18.484",
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.21.76",
+            "3.1.22.25",
+            "3.1.22.48",
+            "3.1.22.77"
+          ],
+          "date": "2022-06-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.22.86",
+          "from": [
+            "3.1.18.490",
+            "3.1.18.513",
+            "3.1.18.515",
+            "3.1.18.520",
+            "3.1.18.521",
+            "3.1.22.48",
+            "3.1.22.77",
+            "3.1.22.80"
+          ],
+          "date": "2022-06-19",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.23.20",
@@ -17458,7 +17760,7 @@
       "config": "trade",
       "display": "Управление торговлей",
       "latest": "11.5.27.52",
-      "versions_count": 275,
+      "versions_count": 277,
       "versions": [
         {
           "version": "11.5.7.308",
@@ -17467,6 +17769,32 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "11.5.8.207",
+          "from": [
+            "11.4.14.181",
+            "11.5.7.394",
+            "11.5.7.402",
+            "11.5.8.201"
+          ],
+          "date": "2022-06-05",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "11.5.8.221",
+          "from": [
+            "11.4.14.181",
+            "11.5.7.394",
+            "11.5.7.402",
+            "11.5.8.207"
+          ],
+          "date": "2022-06-19",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "11.5.8.232",
