@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T12:04:36Z",
+  "generated_at": "2026-06-25T13:04:55Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -44,9 +44,17 @@
         },
         {
           "version": "3.0.106.101",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.105.14",
+            "3.0.105.31",
+            "3.0.105.40",
+            "3.0.105.45",
+            "3.0.106.40",
+            "3.0.106.58",
+            "3.0.106.60"
+          ],
+          "date": "2022-01-11",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -2717,9 +2725,17 @@
         },
         {
           "version": "3.0.106.101",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.105.14",
+            "3.0.105.31",
+            "3.0.105.40",
+            "3.0.105.45",
+            "3.0.106.40",
+            "3.0.106.58",
+            "3.0.106.60"
+          ],
+          "date": "2022-01-11",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -5398,9 +5414,17 @@
         },
         {
           "version": "3.0.106.101",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.105.14",
+            "3.0.105.31",
+            "3.0.105.40",
+            "3.0.105.45",
+            "3.0.106.40",
+            "3.0.106.58",
+            "3.0.106.60"
+          ],
+          "date": "2022-01-11",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -8051,7 +8075,7 @@
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
       "latest": "2.5.27.50",
-      "versions_count": 306,
+      "versions_count": 307,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -8110,10 +8134,28 @@
           "has_setup": true
         },
         {
+          "version": "2.5.7.298",
+          "from": [
+            "2.4.14.85",
+            "2.5.6.291",
+            "2.5.7.279",
+            "2.5.7.288"
+          ],
+          "date": "2021-12-30",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "2.5.7.308",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "2.4.14.95",
+            "2.5.6.291",
+            "2.5.7.288",
+            "2.5.7.298"
+          ],
+          "date": "2022-01-12",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -19103,9 +19145,14 @@
       "versions": [
         {
           "version": "11.5.7.308",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "11.4.13.282",
+            "11.4.14.95",
+            "11.5.6.278",
+            "11.5.7.294"
+          ],
+          "date": "2022-01-12",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -23264,9 +23311,14 @@
       "versions": [
         {
           "version": "11.5.7.308",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "11.4.13.281",
+            "11.4.13.282",
+            "11.4.14.95",
+            "11.5.7.288"
+          ],
+          "date": "2022-01-13",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
