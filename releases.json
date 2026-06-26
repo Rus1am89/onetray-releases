@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:13:58Z",
+  "generated_at": "2026-06-26T04:14:46Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -28,9 +28,17 @@
         },
         {
           "version": "3.0.93.20",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.90.59",
+            "3.0.91.23",
+            "3.0.91.31",
+            "3.0.91.36",
+            "3.0.92.41",
+            "3.0.92.49",
+            "3.0.92.51"
+          ],
+          "date": "2021-05-14",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -3085,9 +3093,17 @@
         },
         {
           "version": "3.0.93.20",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.90.59",
+            "3.0.91.23",
+            "3.0.91.31",
+            "3.0.91.36",
+            "3.0.92.41",
+            "3.0.92.49",
+            "3.0.92.51"
+          ],
+          "date": "2021-05-14",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -6150,9 +6166,17 @@
         },
         {
           "version": "3.0.93.20",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.0.90.59",
+            "3.0.91.23",
+            "3.0.91.31",
+            "3.0.91.36",
+            "3.0.92.41",
+            "3.0.92.49",
+            "3.0.92.51"
+          ],
+          "date": "2021-05-14",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -9239,9 +9263,14 @@
         },
         {
           "version": "2.5.6.195",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "2.4.13.187",
+            "2.5.5.117",
+            "2.5.6.159",
+            "2.5.6.171"
+          ],
+          "date": "2021-05-30",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -13977,7 +14006,7 @@
       "config": "hrm",
       "display": "Зарплата и управление персоналом",
       "latest": "3.1.38.18",
-      "versions_count": 178,
+      "versions_count": 180,
       "versions": [
         {
           "version": "3.1.13.188",
@@ -14002,6 +14031,27 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.14.500",
+          "from": [
+            "3.1.14.468"
+          ],
+          "date": "2021-05-05",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.1.14.525",
+          "from": [
+            "3.1.14.468",
+            "3.1.14.500"
+          ],
+          "date": "2021-05-28",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.14.555",
@@ -14066,9 +14116,14 @@
         },
         {
           "version": "3.1.18.46",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.1.14.500",
+            "3.1.17.138",
+            "3.1.17.171",
+            "3.1.18.15"
+          ],
+          "date": "2021-05-26",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -16481,7 +16536,7 @@
       "config": "hrmcorp",
       "display": "Зарплата и управление персоналом КОРП",
       "latest": "3.1.38.18",
-      "versions_count": 177,
+      "versions_count": 178,
       "versions": [
         {
           "version": "3.1.13.188",
@@ -16506,6 +16561,17 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.14.525",
+          "from": [
+            "3.1.14.468",
+            "3.1.14.500"
+          ],
+          "date": "2021-05-28",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.14.555",
@@ -16570,9 +16636,14 @@
         },
         {
           "version": "3.1.18.46",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.1.14.500",
+            "3.1.17.138",
+            "3.1.17.171",
+            "3.1.18.15"
+          ],
+          "date": "2021-05-26",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
