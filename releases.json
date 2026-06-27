@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T01:28:15Z",
+  "generated_at": "2026-06-27T02:29:02Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -15882,8 +15882,20 @@
       "config": "hrm",
       "display": "Зарплата и управление персоналом",
       "latest": "3.1.38.18",
-      "versions_count": 215,
+      "versions_count": 217,
       "versions": [
+        {
+          "version": "3.1.10.511",
+          "from": [
+            "3.1.10.470",
+            "3.1.10.491",
+            "3.1.10.492"
+          ],
+          "date": "2020-07-20",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
         {
           "version": "3.1.10.531",
           "from": [
@@ -15930,6 +15942,20 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.14.98",
+          "from": [
+            "3.1.10.492",
+            "3.1.14.55",
+            "3.1.14.60",
+            "3.1.14.61",
+            "3.1.14.97"
+          ],
+          "date": "2020-07-14",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.14.129",
@@ -18860,8 +18886,20 @@
       "config": "hrmcorp",
       "display": "Зарплата и управление персоналом КОРП",
       "latest": "3.1.38.18",
-      "versions_count": 204,
+      "versions_count": 206,
       "versions": [
+        {
+          "version": "3.1.10.511",
+          "from": [
+            "3.1.10.470",
+            "3.1.10.491",
+            "3.1.10.492"
+          ],
+          "date": "2020-07-20",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
         {
           "version": "3.1.10.531",
           "from": [
@@ -18908,6 +18946,20 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.1.14.98",
+          "from": [
+            "3.1.10.492",
+            "3.1.14.55",
+            "3.1.14.60",
+            "3.1.14.61",
+            "3.1.14.97"
+          ],
+          "date": "2020-07-15",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.1.14.129",
