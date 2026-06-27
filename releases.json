@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:35:08Z",
+  "generated_at": "2026-06-27T12:35:48Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -16378,7 +16378,7 @@
       "config": "hrm",
       "display": "Зарплата и управление персоналом",
       "latest": "3.1.38.18",
-      "versions_count": 225,
+      "versions_count": 226,
       "versions": [
         {
           "version": "3.1.10.443",
@@ -16476,10 +16476,25 @@
           "has_setup": false
         },
         {
+          "version": "3.1.13.151",
+          "from": [
+            "3.1.10.378",
+            "3.1.13.146"
+          ],
+          "date": "2020-04-10",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "3.1.13.188",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.1.10.416",
+            "3.1.13.146",
+            "3.1.13.151"
+          ],
+          "date": "2020-04-23",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
@@ -19585,9 +19600,13 @@
         },
         {
           "version": "3.1.13.188",
-          "from": [],
-          "date": null,
-          "min_platform": null,
+          "from": [
+            "3.1.10.416",
+            "3.1.13.146",
+            "3.1.13.151"
+          ],
+          "date": "2020-04-23",
+          "min_platform": "8.3",
           "revoked": false,
           "has_setup": true
         },
