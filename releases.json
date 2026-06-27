@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T23:27:37Z",
+  "generated_at": "2026-06-27T00:27:56Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -8,7 +8,7 @@
       "config": "Accounting",
       "display": "Бухгалтерия предприятия",
       "latest": "3.0.199.13",
-      "versions_count": 224,
+      "versions_count": 226,
       "versions": [
         {
           "version": "3.0.79.11",
@@ -17,6 +17,38 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.81.23",
+          "from": [
+            "3.0.79.14",
+            "3.0.79.21",
+            "3.0.80.31",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19"
+          ],
+          "date": "2020-08-07",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.81.30",
+          "from": [
+            "3.0.79.21",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19",
+            "3.0.81.23",
+            "3.0.81.25"
+          ],
+          "date": "2020-08-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.82.24",
@@ -3593,7 +3625,7 @@
       "config": "AccountingBase",
       "display": "Бухгалтерия предприятия (базовая)",
       "latest": "3.0.199.13",
-      "versions_count": 224,
+      "versions_count": 226,
       "versions": [
         {
           "version": "3.0.79.11",
@@ -3602,6 +3634,38 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.81.23",
+          "from": [
+            "3.0.79.14",
+            "3.0.79.21",
+            "3.0.80.31",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19"
+          ],
+          "date": "2020-08-07",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.81.30",
+          "from": [
+            "3.0.79.21",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19",
+            "3.0.81.23",
+            "3.0.81.25"
+          ],
+          "date": "2020-08-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.82.24",
@@ -7178,7 +7242,7 @@
       "config": "AccountingCorp",
       "display": "Бухгалтерия предприятия КОРП",
       "latest": "3.0.199.13",
-      "versions_count": 226,
+      "versions_count": 228,
       "versions": [
         {
           "version": "3.0.77.89",
@@ -7195,6 +7259,38 @@
           "min_platform": null,
           "revoked": false,
           "has_setup": true
+        },
+        {
+          "version": "3.0.81.23",
+          "from": [
+            "3.0.79.14",
+            "3.0.79.21",
+            "3.0.80.31",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19"
+          ],
+          "date": "2020-08-07",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.81.30",
+          "from": [
+            "3.0.79.21",
+            "3.0.80.33",
+            "3.0.80.36",
+            "3.0.80.40",
+            "3.0.81.19",
+            "3.0.81.23",
+            "3.0.81.25"
+          ],
+          "date": "2020-08-21",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
         },
         {
           "version": "3.0.82.24",
