@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:49:51Z",
+  "generated_at": "2026-10-07T15:49:22Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -7,8 +7,8 @@
       "vendor": "1c",
       "config": "Accounting",
       "display": "Бухгалтерия предприятия",
-      "latest": "3.0.199.13",
-      "versions_count": 238,
+      "latest": "3.0.203.18",
+      "versions_count": 239,
       "versions": [
         {
           "version": "3.0.77.78",
@@ -502,7 +502,7 @@
             "3.0.87.22"
           ],
           "date": "2020-12-23",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -566,7 +566,7 @@
             "3.0.88.28"
           ],
           "date": "2021-01-28",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -694,7 +694,7 @@
             "3.0.89.54"
           ],
           "date": "2021-03-16",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -774,7 +774,7 @@
             "3.0.91.31"
           ],
           "date": "2021-04-10",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -854,7 +854,7 @@
             "3.0.95.24"
           ],
           "date": "2021-06-23",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -966,7 +966,7 @@
             "3.0.99.19"
           ],
           "date": "2021-08-07",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -1062,7 +1062,7 @@
             "3.0.99.21"
           ],
           "date": "2021-09-25",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -1142,7 +1142,7 @@
             "3.0.105.41"
           ],
           "date": "2021-12-02",
-          "min_platform": "8.3",
+          "min_platform": "8.3.15.2107",
           "revoked": false,
           "has_setup": false
         },
@@ -1238,7 +1238,7 @@
             "3.0.108.28"
           ],
           "date": "2022-02-16",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.1851",
           "revoked": false,
           "has_setup": false
         },
@@ -1334,7 +1334,7 @@
             "3.0.110.20"
           ],
           "date": "2022-04-05",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.1851",
           "revoked": false,
           "has_setup": false
         },
@@ -1430,7 +1430,7 @@
             "3.0.114.16"
           ],
           "date": "2022-06-16",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.1851",
           "revoked": false,
           "has_setup": false
         },
@@ -1526,7 +1526,7 @@
             "3.0.118.14"
           ],
           "date": "2022-08-16",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.1851",
           "revoked": false,
           "has_setup": false
         },
@@ -1606,7 +1606,7 @@
             "3.0.121.28"
           ],
           "date": "2022-09-30",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.1851",
           "revoked": false,
           "has_setup": false
         },
@@ -1718,7 +1718,7 @@
             "3.0.125.19"
           ],
           "date": "2022-11-29",
-          "min_platform": "8.3",
+          "min_platform": "8.3.17.2760",
           "revoked": false,
           "has_setup": false
         },
@@ -3430,7 +3430,7 @@
             "3.0.185.19"
           ],
           "date": "2025-10-27",
-          "min_platform": "8.3",
+          "min_platform": "8.3.24.1548",
           "revoked": false,
           "has_setup": false
         },
@@ -3541,8 +3541,8 @@
             "3.0.188.22",
             "3.0.189.29"
           ],
-          "date": null,
-          "min_platform": null,
+          "date": "2025-12-23",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": true
         },
@@ -3638,7 +3638,7 @@
             "3.0.192.20"
           ],
           "date": "2026-02-16",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         },
@@ -3734,7 +3734,7 @@
             "3.0.195.36"
           ],
           "date": "2026-04-10",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         },
@@ -3814,7 +3814,23 @@
             "3.0.198.19"
           ],
           "date": "2026-06-01",
-          "min_platform": null,
+          "min_platform": "8.3.27.1688",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
+          "version": "3.0.203.18",
+          "from": [
+            "3.0.198.15",
+            "3.0.198.19",
+            "3.0.199.13",
+            "3.0.200.23",
+            "3.0.201.16",
+            "3.0.201.24",
+            "3.0.202.14"
+          ],
+          "date": "2026-07-28",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
