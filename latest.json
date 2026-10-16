@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.0",
-    "notes":  "Справочник горячих клавиш 1С (+EDT), уведомления о новых релизах, конвертер кодировок, маршрут обновления через дистрибутив, лицензии HASP в диагностике, навигация по темам.",
-    "pub_date":  "2026-06-15T17:30:07Z",
+    "version":  "1.2.0",
+    "notes":  "Редактор обработок: дерево объекта, подсветка, поиск по модулям, предпросмотр форм и макетов, выгрузка в ZIP. Правка .epf — в PRO.",
+    "pub_date":  "2026-10-16T15:55:21Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveG1jS2dwZnpDdnlyRjZiWEhoa0VLVmtsN2NpWitSRDFjaDlveGNYcVNWdTRCaGlPNTRQVC9OdzcwRmlscHFXNVJ2bDFGWDBRWU15aW9ySFU2b05RUWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTQ0NjA3CWZpbGU6T25lVHJheV8xLjEuMF94NjQtc2V0dXAuZXhlCnhJYnVlSzFpcmpLZEl0VlZmbXNjSitsc0dacEQ0bVFNNW1UUGUrbUdGeVNtby9NVzZKQjJIZ1E2ejB3SXRzMFIyZVFFakpxd0ZTSDEvaThNdUxMekR3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/Rus1am89/onetray-releases/main/bin/OneTray_1.1.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHVLcDNIUFhUcTAwazRNT25nb1RycWw2TWNTZEFyRTQwclVpK1RkUE1yNHRIdjRkL2ZFMTg5dmNrcms2R1Bncys2Q3pBaENFcHhpSXNXZC84c0RyTWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY2MTIxCWZpbGU6QmFzZWh1Yl8xLjIuMF94NjQtc2V0dXAuZXhlCjQwRUlNU3J1ZndCdmQ5UkNLdFh2U1BTNW9CM2d4NmsyS2o4QzQxVEhhdzRIdW9sVEw2b1ZtM2FwNThaS3RUdlJHT3JzOXJOU25PWmFKbk90VnNLbkJ3PT0K",
+                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.2.0_x64-setup.exe"
                                          }
                   }
 }
