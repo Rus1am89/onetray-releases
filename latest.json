@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.4",
-    "notes":  "Merge test into main: release 1.2.4",
-    "pub_date":  "2026-10-17T18:45:57Z",
+    "version":  "1.2.5",
+    "notes":  "Merge test into main: release 1.2.5",
+    "pub_date":  "2026-10-17T19:52:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHFpZzYzbUQ0TVFrb05yK2NBNlQ3S3c2TmlWTlg2OHd3UmdLVjBIWkZlUlZHSmdxeXh3dG41YnJ3UFZHMjV3cjBudHExSld1MTIydTUvT1FOT0czSmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYyNzUzCWZpbGU6QmFzZWh1Yl8xLjIuNF94NjQtc2V0dXAuZXhlCk9hTE0zd1d6RHpuc3pkZ0krNmxaZ3BwdHY5N3FwODR4QlI0VG1YOGtmSHR1ZHBYWlBFZ096TlBISHk0QUFZcFluWjg2bEVZZ0RsdXpiVm5oMGpUc0J3PT0K",
-                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveGhWeW9rSkFhLzg2QzBtMHUrNEJ0d3R1V2lCUWo5MUcrME85V21xTWFDYUpPTHFRam5KMytrWUkrSlR1OE1wWVRDL2dUV1JaWUx5K0RiQzJaZW1pVUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjY2NzQyCWZpbGU6QmFzZWh1Yl8xLjIuNV94NjQtc2V0dXAuZXhlCmVUak53b0Z2NXNuSFY1ZDlRU3J2VlpTL0krdlRaYkVPc3FzaFhwUEdxQ0JGK1FWU0ZWZXRtNEhUSEE1bnBRWGs1RUJYWk5UMnAwaWlKMUVzWWhvWUR3PT0K",
+                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.2.5_x64-setup.exe"
                                          }
                   }
 }
