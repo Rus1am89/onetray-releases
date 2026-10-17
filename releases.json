@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:52:01Z",
+  "generated_at": "2026-10-17T12:21:16Z",
   "source": "couchdb-graph",
   "configurations_count": 11,
   "configurations": {
@@ -4022,11 +4022,20 @@
             "3.0.207.28"
           ],
           "date": "2026-10-05",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "Accounting",
+      "current": {
+        "version": "3.0.208.14",
+        "platform": "8.3.27.1688",
+        "size": 110513052,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/Accounting/3_0_208_14/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/AccountingBase": {
       "vendor": "1c",
@@ -8047,11 +8056,20 @@
             "3.0.207.28"
           ],
           "date": "2026-10-05",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "AccountingBase",
+      "current": {
+        "version": "3.0.208.14",
+        "platform": "8.3.27.1688",
+        "size": 110533084,
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/AccountingBase/3_0_208_14/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/AccountingCorp": {
       "vendor": "1c",
@@ -12088,18 +12106,27 @@
             "3.0.207.28"
           ],
           "date": "2026-10-05",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "AccountingCorp",
+      "current": {
+        "version": "3.0.208.14",
+        "platform": "8.3.27.1688",
+        "size": 102651077,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/AccountingCorp/3_0_208_14/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/Enterprise20": {
       "vendor": "1c",
       "config": "Enterprise20",
       "display": "ERP Управление предприятием",
-      "latest": "2.6.1.64",
-      "versions_count": 344,
+      "latest": "2.6.2.59",
+      "versions_count": 346,
       "versions": [
         {
           "version": "2.5.5.82",
@@ -16964,6 +16991,21 @@
           "has_setup": false
         },
         {
+          "version": "2.5.27.98",
+          "from": [
+            "2.5.22.186",
+            "2.5.26.118",
+            "2.5.27.82",
+            "2.5.27.88",
+            "2.5.27.93",
+            "2.5.27.95"
+          ],
+          "date": "2026-10-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "2.6.1.47",
           "from": [
             "2.5.27.52",
@@ -17052,8 +17094,32 @@
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
+        },
+        {
+          "version": "2.6.2.59",
+          "from": [
+            "2.5.27.93",
+            "2.5.27.95",
+            "2.6.1.61",
+            "2.6.1.64",
+            "2.6.1.70",
+            "2.6.2.36"
+          ],
+          "date": "2026-10-04",
+          "min_platform": "8.3.27.1859",
+          "revoked": false,
+          "has_setup": false
         }
-      ]
+      ],
+      "program": "Enterprise20",
+      "current": {
+        "version": "2.6.2.59",
+        "platform": "8.3.27.1859",
+        "size": 469450113,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/Enterprise20/2_6_2_59/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/hrm": {
       "vendor": "1c",
@@ -20509,11 +20575,20 @@
             "3.1.38.92"
           ],
           "date": "2026-10-06",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "HRM",
+      "current": {
+        "version": "3.1.38.123",
+        "platform": "8.3.27.1688",
+        "size": 98232259,
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/HRM/3_1_38_123/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/hrmcorp": {
       "vendor": "1c",
@@ -23808,11 +23883,20 @@
             "3.1.38.92"
           ],
           "date": "2026-10-06",
-          "min_platform": "8.3",
+          "min_platform": "8.3.27.1688",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "HRMCorp",
+      "current": {
+        "version": "3.1.38.123",
+        "platform": "8.3.27.1688",
+        "size": 108201354,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/HRMCorp/3_1_38_123/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/Money": {
       "vendor": "1c",
@@ -23988,11 +24072,20 @@
             "2.0.44.28"
           ],
           "date": "2024-06-04",
-          "min_platform": "8.3",
+          "min_platform": "8.3.18.1957",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "Money",
+      "current": {
+        "version": "2.0.44.40",
+        "platform": "8.3.18.1957",
+        "size": 13677432,
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Money/2_0_44_40/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/Retail": {
       "vendor": "1c",
@@ -26256,11 +26349,20 @@
             "3.0.14.93"
           ],
           "date": "2026-10-02",
-          "min_platform": "8.5",
+          "min_platform": "8.5.1.1150",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "Retail",
+      "current": {
+        "version": "3.0.14.168",
+        "platform": "8.5.1.1150",
+        "size": 599291236,
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/Retail/3_0_14_168/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/smallbusiness": {
       "vendor": "1c",
@@ -29867,18 +29969,27 @@
             "3.0.14.93"
           ],
           "date": "2026-10-02",
-          "min_platform": "8.5",
+          "min_platform": "8.5.1.1150",
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "SmallBusiness",
+      "current": {
+        "version": "3.0.14.168",
+        "platform": "8.5.1.1150",
+        "size": 550362917,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/SmallBusiness/3_0_14_168/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/trade": {
       "vendor": "1c",
       "config": "trade",
       "display": "Управление торговлей",
       "latest": "11.6.1.70",
-      "versions_count": 310,
+      "versions_count": 311,
       "versions": [
         {
           "version": "11.5.7.255",
@@ -34283,6 +34394,21 @@
           "has_setup": false
         },
         {
+          "version": "11.5.27.98",
+          "from": [
+            "11.5.22.186",
+            "11.5.26.118",
+            "11.5.27.82",
+            "11.5.27.88",
+            "11.5.27.93",
+            "11.5.27.95"
+          ],
+          "date": "2026-10-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "11.6.1.47",
           "from": [
             "11.5.27.52",
@@ -34387,14 +34513,23 @@
           "revoked": false,
           "has_setup": false
         }
-      ]
+      ],
+      "program": "Trade",
+      "current": {
+        "version": "11.6.2.59",
+        "platform": "8.3.27.1859",
+        "size": 81163558,
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Trade/11_6_2_59/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     },
     "1c/tradebase": {
       "vendor": "1c",
       "config": "tradebase",
       "display": "Управление торговлей (базовая)",
-      "latest": "11.6.1.70",
-      "versions_count": 293,
+      "latest": "11.6.2.59",
+      "versions_count": 295,
       "versions": [
         {
           "version": "11.5.7.269",
@@ -38576,6 +38711,21 @@
           "has_setup": false
         },
         {
+          "version": "11.5.27.98",
+          "from": [
+            "11.5.22.186",
+            "11.5.26.118",
+            "11.5.27.82",
+            "11.5.27.88",
+            "11.5.27.93",
+            "11.5.27.95"
+          ],
+          "date": "2026-10-08",
+          "min_platform": "8.3",
+          "revoked": false,
+          "has_setup": false
+        },
+        {
           "version": "11.6.1.47",
           "from": [
             "11.5.27.52",
@@ -38664,8 +38814,32 @@
           "min_platform": "8.3",
           "revoked": false,
           "has_setup": false
+        },
+        {
+          "version": "11.6.2.59",
+          "from": [
+            "11.5.27.93",
+            "11.5.27.95",
+            "11.6.1.59",
+            "11.6.1.61",
+            "11.6.1.64",
+            "11.6.1.70"
+          ],
+          "date": "2026-10-05",
+          "min_platform": "8.3.27.1859",
+          "revoked": false,
+          "has_setup": false
         }
-      ]
+      ],
+      "program": "TradeBase",
+      "current": {
+        "version": "11.6.2.59",
+        "platform": "8.3.27.1859",
+        "size": 66700298,
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/TradeBase/11_6_2_59/82/News1cv8.htm",
+        "steps": 1,
+        "checked_at": "2026-10-17T12:21:10Z"
+      }
     }
   }
 }
