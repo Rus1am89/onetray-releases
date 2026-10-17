@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.2",
-    "notes":  "Свежие данные о релизах, сверенные с 1С: точная платформа, размер и «Что нового» у каждого шага. Новые конфигурации (УПП, БГУ, ЗКГУ, Документооборот), редакции ПРОФ/базовая/КОРП одной строкой, цепочка считается автоматически. PRO: скачанные обновления в калькуляторе, журнал регистрации с отбором.",
-    "pub_date":  "2026-10-17T13:30:47Z",
+    "version":  "1.2.3",
+    "notes":  "Проверка кода в редакторе обработок через BSL Language Server из Phoenix BSL: Ctrl+I — замечания в коде и списком; форматирование (Ctrl+K) и «исправить всё» (Ctrl+J) — в PRO. Исправлен журнал регистрации серверных баз через COM (пустая ошибка PowerShell, платформа 8.5). «Перейти» в «Релизах» открывает страницу конфигурации на releases.1c.ru; в настройках — верная версия.",
+    "pub_date":  "2026-10-17T16:23:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHBwZDZVN1BnakxER2hhQnRFOEdhdnJBNWZiZWk3TVovTHpoSnRZQ2k1Y3JlVEdDWkpCN1NKdlRzMmpwNHI1R2xPMFNwdEFmNnptT1U3R1RXY21RcVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQzODQ0CWZpbGU6QmFzZWh1Yl8xLjIuMl94NjQtc2V0dXAuZXhlCmRtWWlmMXVDWDlMdlVrVnJKMWV3R3JvVzJMdXZOVXNwVUpJalA0bmY0anFnbkhXSExQamYwNUVuaHB5RkR5NVdIN1FtV1pwdmNXVWo2ODc4LzE2d0NRPT0K",
-                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHBFY3hTakY3RGlaY2hackxWQ1I1YVZHYTBjYVZJYm9KSWpGUlowazN1RU9zLzV3YVRCYVpPTDI2eitmQjZrNkZUdndydU9hT3pXNUo3M3dYWERuSlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU0MjAxCWZpbGU6QmFzZWh1Yl8xLjIuM194NjQtc2V0dXAuZXhlCmZmVFMwNnFkVkd2WVpWMm9KLzVyZkhtOG9rQ0ZZamNlQS8yRTlDMGx2TXpkZTRNMVBBRGVVa2M0NTRBcUgvVE9RaC9tcjVhQ3BzT3RORzVybU1CQUFRPT0K",
+                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.2.3_x64-setup.exe"
                                          }
                   }
 }
