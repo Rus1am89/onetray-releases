@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:50:54Z",
+  "generated_at": "2026-10-26T09:51:13Z",
   "source": "couchdb-graph",
   "configurations_count": 17,
   "configurations": {
@@ -12648,9 +12648,9 @@
         "version": "3.0.209.16",
         "platform": "8.3.27.1688",
         "size": 119866762,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/Accounting/3_0_209_16/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/Accounting/3_0_209_16/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/AccountingBase": {
@@ -16698,9 +16698,9 @@
         "version": "3.0.209.16",
         "platform": "8.3.27.1688",
         "size": 119901926,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/AccountingBase/3_0_209_16/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/AccountingBase/3_0_209_16/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/AccountingCorp": {
@@ -20764,9 +20764,9 @@
         "version": "3.0.209.16",
         "platform": "8.3.27.1688",
         "size": 112074380,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/AccountingCorp/3_0_209_16/82/News1cv8.htm",
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/AccountingCorp/3_0_209_16/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/enterprise": {
@@ -23651,7 +23651,7 @@
         "size": 55985300,
         "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Enterprise/1_3_286_2/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/Enterprise20": {
@@ -28679,9 +28679,9 @@
         "version": "2.6.2.68",
         "platform": "8.3.27.1859",
         "size": 558826106,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/Enterprise20/2_6_2_68/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/Enterprise20/2_6_2_68/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/hrm": {
@@ -33914,9 +33914,9 @@
         "version": "3.1.39.53",
         "platform": "8.5.1.1150",
         "size": 118019747,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/HRM/3_1_39_53/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/HRM/3_1_39_53/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/hrmbase": {
@@ -37377,9 +37377,9 @@
         "version": "3.1.39.53",
         "platform": "8.5.1.1150",
         "size": 118134327,
-        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/HRMBase/3_1_39_53/82/News1cv8.htm",
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/HRMBase/3_1_39_53/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/hrmcorp": {
@@ -40700,7 +40700,7 @@
         "size": 125993423,
         "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/HRMCorp/3_1_39_53/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/Money": {
@@ -40887,9 +40887,9 @@
         "version": "2.0.44.40",
         "platform": "8.3.18.1957",
         "size": 13677432,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Money/2_0_44_40/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/Money/2_0_44_40/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/Retail": {
@@ -43198,7 +43198,7 @@
         "size": 620686500,
         "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Retail/3_0_14_178/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/RetailBase": {
@@ -45209,9 +45209,9 @@
         "version": "3.0.14.178",
         "platform": "8.5.1.1150",
         "size": 537786921,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/RetailBase/3_0_14_178/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/RetailBase/3_0_14_178/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/smallbusiness": {
@@ -48861,9 +48861,9 @@
         "version": "3.0.14.178",
         "platform": "8.5.1.1150",
         "size": 571864391,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/SmallBusiness/3_0_14_178/82/News1cv8.htm",
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/SmallBusiness/3_0_14_178/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/smallbusinessbase": {
@@ -52006,9 +52006,9 @@
         "version": "3.0.14.178",
         "platform": "8.5.1.1150",
         "size": 537778014,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/SmallBusinessBase/3_0_14_178/82/News1cv8.htm",
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/SmallBusinessBase/3_0_14_178/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/StateAccounting": {
@@ -54364,9 +54364,9 @@
         "version": "2.0.111.61",
         "platform": "8.3.27.1688",
         "size": 361652715,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/StateAccounting/2_0_111_61/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/StateAccounting/2_0_111_61/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/statehrm": {
@@ -57657,9 +57657,9 @@
         "version": "3.1.39.53",
         "platform": "8.5.1.1150",
         "size": 118351011,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/StateHRM/3_1_39_53/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/StateHRM/3_1_39_53/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/trade": {
@@ -62512,9 +62512,9 @@
         "version": "11.6.2.68",
         "platform": "8.3.27.1859",
         "size": 173642061,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/Trade/11_6_2_68/82/News1cv8.htm",
+        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/Trade/11_6_2_68/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     },
     "1c/tradebase": {
@@ -66859,9 +66859,9 @@
         "version": "11.6.2.68",
         "platform": "8.3.27.1859",
         "size": 159451259,
-        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/TradeBase/11_6_2_68/82/News1cv8.htm",
+        "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/TradeBase/11_6_2_68/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:44:54Z"
+        "checked_at": "2026-10-26T09:46:54Z"
       }
     }
   },
@@ -66875,7 +66875,7 @@
         "size": 60362395,
         "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/DocMng/3_0_20_21/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:45:02Z"
+        "checked_at": "2026-10-26T09:47:01Z"
       }
     },
     "1c/DocMngHolding3": {
@@ -66885,9 +66885,9 @@
         "version": "3.0.21.3",
         "platform": "8.3.27.1688",
         "size": 199961409,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/DocMngHolding3/3_0_21_3/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/DocMngHolding3/3_0_21_3/82/News1cv8.htm",
         "steps": 1,
-        "checked_at": "2026-10-26T08:45:02Z"
+        "checked_at": "2026-10-26T09:47:01Z"
       }
     },
     "1c/StateAccountingBase": {
@@ -66897,9 +66897,9 @@
         "version": "2.0.111.61",
         "platform": "8.3.27.1688",
         "size": 6369656457,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/StateAccountingBase/2_0_111_61/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/StateAccountingBase/2_0_111_61/82/News1cv8.htm",
         "steps": 28,
-        "checked_at": "2026-10-26T08:45:02Z"
+        "checked_at": "2026-10-26T09:47:01Z"
       }
     },
     "1c/statehrmbase": {
@@ -66909,9 +66909,9 @@
         "version": "3.1.39.53",
         "platform": "8.5.1.1150",
         "size": 3060141246,
-        "news_url": "https://dl04.1c.ru/content//AutoUpdatesFiles/StateHRMBase/3_1_39_53/82/News1cv8.htm",
+        "news_url": "https://dl05.1c.ru/content//AutoUpdatesFiles/StateHRMBase/3_1_39_53/82/News1cv8.htm",
         "steps": 39,
-        "checked_at": "2026-10-26T08:45:02Z"
+        "checked_at": "2026-10-26T09:47:01Z"
       }
     },
     "1c/statehrmcorp": {
@@ -66923,7 +66923,7 @@
         "size": 3624840423,
         "news_url": "https://dl03.1c.ru/content//AutoUpdatesFiles/StateHRMCorp/3_1_39_53/82/News1cv8.htm",
         "steps": 39,
-        "checked_at": "2026-10-26T08:45:02Z"
+        "checked_at": "2026-10-26T09:47:01Z"
       }
     }
   }
