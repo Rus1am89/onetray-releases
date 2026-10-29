@@ -1,11 +1,15 @@
 {
-    "version":  "1.4.1",
-    "notes":  "Basehub 1.4.1\n\n• Linux: консоли кода и запросов — через сеанс 1С с расширением Basehub, без COM. Расширение ставит пакетный Конфигуратор (можно «только на этот сеанс»), 1С:Предприятие запускается из Basehub с агентом — в том числе без открытой обработки.\n• В Linux расширение работает в безопасном режиме: для работы с файлами и сетью из консоли снимите флажок «Безопасный режим» в «Управлении расширениями конфигурации».",
-    "pub_date":  "2026-10-29T11:39:22Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHFTcmcxaHhiZGlEMUxjVVk3SkJ3YURxV29naEVGcUpSNDhKQjdqS29ZdlNZTTA4cGsveStCMkNpNHVUeGd6WkJ2a0lZbmsvaWdJUUwzOVNNSm1wQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczOTU5CWZpbGU6QmFzZWh1Yl8xLjQuMV94NjQtc2V0dXAuZXhlCjNjandJSEpPMXVPb0VEMjhkM2doMmdvOUs5MEZWNW9OOGNXblJxdTFXcERBNS9SY0MyYjczK1JrUlR0TEwvVmZpZXdUMmdPSlJFOEV1YzQ5OVhKbEJBPT0K",
-                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.4.1_x64-setup.exe"
-                                         }
-                  }
+  "version": "1.4.1",
+  "notes": "Basehub 1.4.1\n\n• Linux: консоли кода и запросов — через сеанс 1С с расширением Basehub, без COM. Расширение ставит пакетный Конфигуратор (можно «только на этот сеанс»), 1С:Предприятие запускается из Basehub с агентом — в том числе без открытой обработки.\n• В Linux расширение работает в безопасном режиме: для работы с файлами и сетью из консоли снимите флажок «Безопасный режим» в «Управлении расширениями конфигурации».",
+  "pub_date": "2026-10-29T11:39:22Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHFTcmcxaHhiZGlEMUxjVVk3SkJ3YURxV29naEVGcUpSNDhKQjdqS29ZdlNZTTA4cGsveStCMkNpNHVUeGd6WkJ2a0lZbmsvaWdJUUwzOVNNSm1wQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczOTU5CWZpbGU6QmFzZWh1Yl8xLjQuMV94NjQtc2V0dXAuZXhlCjNjandJSEpPMXVPb0VEMjhkM2doMmdvOUs5MEZWNW9OOGNXblJxdTFXcERBNS9SY0MyYjczK1JrUlR0TEwvVmZpZXdUMmdPSlJFOEV1YzQ5OVhKbEJBPT0K",
+      "url": "https://updates.basehub-tools.ru/bin/Basehub_1.4.1_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveGdrYU9yUmVhb3RYQ0xmNldZWGJMQkhoVERWVkNRQkFyWm9QdEtxWno5ZEhqbTVUb3JlSnRGZkVjVkVkZzkvM2N4bEdPMjJ2YS9rZHQ1U3AyMlJTRWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc0MzI5CWZpbGU6QmFzZWh1Yl8xLjQuMV9hbWQ2NC5BcHBJbWFnZQpRbkFQNXNEMWJwMDhtK0gyd1BrTkNGRkMrRFkxSTVnV1hlc0wvSEpmZTB6MEl5ajlVdVZKTXZEdS9ReFB0RVBTU1l4Sld4aHFHRGVXTUdpd3p0Y0dBUT09Cg==",
+      "url": "https://github.com/Rus1am89/onetray-releases/releases/download/v1.4.1/Basehub_linux_amd64.AppImage"
+    }
+  }
 }
