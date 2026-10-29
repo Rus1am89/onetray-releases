@@ -1,11 +1,11 @@
 {
-    "version":  "1.3.2",
-    "notes":  "Basehub 1.3.2\n\n• Исправлено: на части компьютеров установка расширения Basehub, консоль кода и консоль запросов останавливались окном «reg.exe — Ошибка при запуске приложения (0xc0000142)».",
-    "pub_date":  "2026-10-28T20:38:18Z",
+    "version":  "1.4.0",
+    "notes":  "Basehub 1.4.0\n\n• Добавлено: Basehub для Linux x86-64 — AppImage и пакет .deb (Ubuntu 22.04+, Debian 12+). Релизы и цепочки обновлений, редактор обработок, список баз, кеш 1С, журнал регистрации файловых баз, удалённый доступ с телефона.\n• В Linux нет консолей кода и запросов, расширения Basehub и выгрузки журнала серверной базы — они работают через COM-соединение 1С и доступны в версии для Windows.",
+    "pub_date":  "2026-10-29T10:21:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHYxNUEvSzcrWU1nOEIvNTJEb3lsQlowZFgxWmNqdVMrYTJsdWg4czdOV2ZHR2syQk9INTNPQlgvOWxPdWlsc3VhcVZ4aFpXMUMzRTRTdDhFMXRDckEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjE5ODk1CWZpbGU6QmFzZWh1Yl8xLjMuMl94NjQtc2V0dXAuZXhlCmJWRGVoRHhPVFRZazhhMUlINXpLVzFFSHVPdWZmcDFWS3NvaGJRM0xXcWJmemJHU0hYaUEwaVdEaVgzdGVNczBqYVoydHpwazR1SDNhYi9ybndQZkFBPT0K",
-                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.3.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHUrNzYxS1hYelNGMFNKY3E5Q0ZoM0FLbms4M3l3OVg2aVY1ZzRZb1R4Y0VFVDdGWTUxSk5ySkd1aUhaenJuZ0dORDBJUFVNS3VKMmNwM29JOFEwcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY5MjYyCWZpbGU6QmFzZWh1Yl8xLjQuMF94NjQtc2V0dXAuZXhlCkhLUXQ4TkRQcVVLczN3SVloRXRrdUFZVXhwTEh0WXBsUjNXMERXaG5KcWlPZTBGQXRkZTF0dFhadDkvZUxWd1ZkOENjTnVYMTdJY2VQNlNQcTMva0RRPT0K",
+                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.4.0_x64-setup.exe"
                                          }
                   }
 }
