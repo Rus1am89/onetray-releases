@@ -1,15 +1,11 @@
 {
-  "version": "1.4.0",
-  "notes": "Basehub 1.4.0\n\n• Добавлено: Basehub для Linux x86-64 — AppImage и пакет .deb (Ubuntu 22.04+, Debian 12+). Релизы и цепочки обновлений, редактор обработок, список баз, кеш 1С, журнал регистрации файловых баз, удалённый доступ с телефона.\n• В Linux нет консолей кода и запросов, расширения Basehub и выгрузки журнала серверной базы — они работают через COM-соединение 1С и доступны в версии для Windows.",
-  "pub_date": "2026-10-29T10:21:05Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHUrNzYxS1hYelNGMFNKY3E5Q0ZoM0FLbms4M3l3OVg2aVY1ZzRZb1R4Y0VFVDdGWTUxSk5ySkd1aUhaenJuZ0dORDBJUFVNS3VKMmNwM29JOFEwcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY5MjYyCWZpbGU6QmFzZWh1Yl8xLjQuMF94NjQtc2V0dXAuZXhlCkhLUXQ4TkRQcVVLczN3SVloRXRrdUFZVXhwTEh0WXBsUjNXMERXaG5KcWlPZTBGQXRkZTF0dFhadDkvZUxWd1ZkOENjTnVYMTdJY2VQNlNQcTMva0RRPT0K",
-      "url": "https://updates.basehub-tools.ru/bin/Basehub_1.4.0_x64-setup.exe"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHVDdXFHcGh0N0JUSnZoWXVEbi94a2YyclFodFNDTjJ4U3lvV2lrR3padzNjVHVJbUdTUTNMY1JJSndQMGVNUFdsS1lFMmc3V29uUWtKRWswOXNzc2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY5NjAwCWZpbGU6QmFzZWh1Yl8xLjQuMF9hbWQ2NC5BcHBJbWFnZQpLT0gxY1lUd3lhbEtGclFUVTFKUTZIQVgrZWthY2h1WnFKd3F5dlFLZi9ITFIyNmc0YnUyRjl6TVFYQnk4UHBpa2xzTXFHMXV0Z1ZRYzRPWU9rcExBdz09Cg==",
-      "url": "https://github.com/Rus1am89/onetray-releases/releases/download/v1.4.0/Basehub_linux_amd64.AppImage"
-    }
-  }
+    "version":  "1.4.1",
+    "notes":  "Basehub 1.4.1\n\n• Linux: консоли кода и запросов — через сеанс 1С с расширением Basehub, без COM. Расширение ставит пакетный Конфигуратор (можно «только на этот сеанс»), 1С:Предприятие запускается из Basehub с агентом — в том числе без открытой обработки.\n• В Linux расширение работает в безопасном режиме: для работы с файлами и сетью из консоли снимите флажок «Безопасный режим» в «Управлении расширениями конфигурации».",
+    "pub_date":  "2026-10-29T11:39:22Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUnE0Q3VVcjdveHFTcmcxaHhiZGlEMUxjVVk3SkJ3YURxV29naEVGcUpSNDhKQjdqS29ZdlNZTTA4cGsveStCMkNpNHVUeGd6WkJ2a0lZbmsvaWdJUUwzOVNNSm1wQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczOTU5CWZpbGU6QmFzZWh1Yl8xLjQuMV94NjQtc2V0dXAuZXhlCjNjandJSEpPMXVPb0VEMjhkM2doMmdvOUs5MEZWNW9OOGNXblJxdTFXcERBNS9SY0MyYjczK1JrUlR0TEwvVmZpZXdUMmdPSlJFOEV1YzQ5OVhKbEJBPT0K",
+                                             "url":  "https://updates.basehub-tools.ru/bin/Basehub_1.4.1_x64-setup.exe"
+                                         }
+                  }
 }
